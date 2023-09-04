@@ -1,0 +1,156 @@
+1> What is SDLC
+-> SDLC is a sortform of Software Devlopment Life Cycle
+   it has 6 phases 
+   1.  Requirements
+   2.  Analysis 
+   3.  Design 
+   4.  coding
+   5.  Testing
+   6.  Maintenance
+  
+2> What is software testing?
+-> Software testing is a process used to identify the correctness , completness and quality
+   of devloped computer software
+   correctness -> with identifying bugs and solution
+   completness -> process is complete (run the application)
+   quality -> how smooth it is running
+
+3> What is agile methodology?
+-> agile is a mothed of of software testing.it is a combination of Iterative Model and 
+   incremental method.it is rapidly deliver software product to the customer. in which 
+   break the product into small incremental builds,then this builds provides iterative
+   process.each iretatice envolves cross function working.in the end iteration working product
+   display together to clint. 
+
+   
+4> What is SRS
+   SRS is a sortform of software requirement specification.which is a document. SRS document is
+   used for complete description of the behaviour of the system to be devloped.
+   which has 3 types 
+   1. Function requirment -> include use case (Buisness scenario)
+   2. Non-Funcional requirment includes performance reqirment,quality standard or design constraints
+   3. customer requirment ->Distribution,scenario,performance,utilization enviorment,effectivness
+      reqirment,operation life cycle,enviroment
+
+5> What is oops
+-> OOPS is a sortform of Object Oriented Programing system which is also call as language
+   it is a higher level language which is used to convert lower level language (Binary
+   language) 
+
+6> Write Basic Concepts of oops
+-> there are 6 concepts in OOPS
+   1. Object
+   2. Class
+   3. Encapsulation
+   4. Abstraction
+   5. Polymorphism
+   6. Inheritance
+
+7> What is object 
+-> Object is a smallest unit of any program.Both data and function that opertaes on data are bundles
+   as a unit called Object.
+
+8> What is class
+-> A class represtnts an abstraction of the object and abstracts the properties and behaviour of any 
+   project
+
+9> What is encapsulation
+-> Encapsulation is the process of wrapping up the data and behaviour of an object into a single unit 
+   and the unit here is a class 
+
+10> What is inheritance
+->  Inheritance means that one class inherits the characteristics of another class. this is called a 
+    "is a" relationship
+
+11> What is polymorphism
+->  Polymorphism means it is allows different object tpresponds to the same message in different ways,
+    the response specific to the type of the object
+    polymorphism has 2 types
+    1. overloading
+    2. over ridding
+
+12> Draw Usecase on Online book shopping
+
+13> Draw Usecase on online bill payment system (paytm)
+
+14> Write SDLC phases with basic introduction
+->  it has 6 phases 
+    1.  Requirements-> it is a first phase where the client come to company and shows the
+        what are the properties and data they want in their software program.Further more it 
+        will also say how the program going to work and for which types of program they want
+        it is totally base on documents
+
+    2.  Analysis-> it is a second phase of sdlc.company look out the requirments and select 
+        the best method ant way to complet this project which is anylysid by their all team.
+
+    3.  Design-> After completing analysing company starts wroking on the project.they start drawing
+        Blueprints of the product which is called designing phase. in which they describe the fonts,colour,
+        logos and design of the product
+
+    4.  coding-> after completing the design it goes for the coding,which is very important part of this life 
+        cycle.in which the coding team start coding the product by watching requirments of the client.
+
+    5.  Testing-> now the progrram has been coded and it come to the testing department where it is going throgh
+        some testing where the bugs can be finded by the team.tester also check the smothness of the products
+        and requirments of the clients.
+ 
+    6.  Maintenance-> the last phase of the sdlc.after completing all the process.it came after deploying the
+        product to the client.they check the work space,updatation of the system,enviroment any more things 
+
+15> Explain Phases of the waterfall model
+->  there are also 6 phases of waterfall model in software testing methadology
+    Requirement,Analysis,Design,coding,Testing,Maintenance.
+    in waterfall model each phase must be completed before the next phase can begin and there is no 
+    overlapping in the phases.after completing one phase after that you can go to the another phase, without
+    completing you can not jump to the other phases.Requirment must be clear and frozen early in a life cycle 
+    you cant change it
+ -> it is used when documents are well and cleared and fixed
+    defination must be stable
+    also for short project
+    
+
+16> Write phases of spiral model
+->  It has four stages or phases: The planning of objectives, risk analysis, engineering or development, and finally
+    review. A project passes through all these stages repeatedly and the phases are known as a Spiral in the model.
+
+    1. Determine objectives and find alternate solutions – This phase includes requirement gathering and analysis. Based
+    on the requirements, objectives are defined and different alternate solutions are proposed.
+
+    2. Risk Analysis and resolving – In this quadrant, all the proposed solutions are analyzed and any potential risk is
+    identified, analyzed, and resolved.
+
+    3. Develop and test: This phase includes the actual implementation of the different features. All the implemented features
+    are then verified with thorough testing.
+
+    4. Review and planning of the next phase – In this phase, the software is evaluated by the customer. It also includes risk
+    identification and monitoring like cost overrun or schedule slippage and after that planning of the next phase is started
+
+17> Write agile manifesto principles
+->
+
+18> Explain working methodology of agile model and also write pros and cons.
+->  agile is a mothed of of software testing.it is a combination of Iterative Model and 
+    incremental method.it is rapidly deliver software product to the customer. in which 
+    break the product into small incremental builds,then this builds provides iterative
+    process.each iretatice envolves cross function working.Al the end iteration working product
+    display together to clint.
+  * Pros - 
+   - Real base project are achived
+   - team work and cross training required
+   - functionally devloped rapidly
+   - minimum rules (least documents)
+   - changes can be done in any phase
+   - no planning required
+   - flexiblity and adaptiblity
+   - easy to manage
+  *Cons - 
+   - we need dependency
+   - leader should be more experience
+   - havily dependant pn costumer
+   - leaast documentation parts required due to which high individual dependancy needed
+   -  transfer of technology to new team member will be quit challenging due to least documentation
+   - sometimes became very hectic 
+     
+   
+19> Draw usecase on Online shopping product using COD.
+20> Draw usecase on Online shopping product using payment gateway
