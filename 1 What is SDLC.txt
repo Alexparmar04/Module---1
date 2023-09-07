@@ -110,23 +110,16 @@
     
 
 16> Write phases of spiral model
-->  It has four stages or phases: The planning of objectives, risk analysis, engineering or development, and finally
-    review. A project passes through all these stages repeatedly and the phases are known as a Spiral in the model.
+->  
 
-    1. Determine objectives and find alternate solutions – This phase includes requirement gathering and analysis. Based
-    on the requirements, objectives are defined and different alternate solutions are proposed.
-
-    2. Risk Analysis and resolving – In this quadrant, all the proposed solutions are analyzed and any potential risk is
-    identified, analyzed, and resolved.
-
-    3. Develop and test: This phase includes the actual implementation of the different features. All the implemented features
-    are then verified with thorough testing.
-
-    4. Review and planning of the next phase – In this phase, the software is evaluated by the customer. It also includes risk
-    identification and monitoring like cost overrun or schedule slippage and after that planning of the next phase is started
-
-17> Write agile manifesto principles
-->
+17> 7 key principle 
+->  Testing shows presence of defects
+    Exhaustive testing is not possible
+    Early testing
+    Defect clustering
+    Pesticide paradox
+    Testing is context dependent
+    Absence of errors fallacy
 
 18> Explain working methodology of agile model and also write pros and cons.
 ->  agile is a mothed of of software testing.it is a combination of Iterative Model and 
